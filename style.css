@@ -1,0 +1,12 @@
+body { margin: 0;
+       background: #111;
+       color: white;
+       font-family: sans-serif;
+       text-align: center;} 
+
+.hero {height: 100vh;
+       display: flex;
+       justify-content: center;
+       align-items: center;}
+
+.hero-title {font-size: 48px;}
